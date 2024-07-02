@@ -1,14 +1,3 @@
-## Hi there 👋
-
-<!--
-**vitamaxoduol/vitamaxoduol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Here is a README template for your GitHub profile that highlights your skills, projects, and experience to attract job and project opportunities:
-
----
-
 # Hi, I'm Vitamax Oduol 👋
 
 **Full-Stack Software Engineer | DevOps Enthusiast | Problem Solver**
