@@ -5,28 +5,34 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vitamaxoduol/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/vitamaxoduol)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vitamaxoduo@gmail.com)
+[![Credily](https://www.credly.com/badges/c3b06388-a17b-405d-ada2-6889df2fd085/linked_in?t=siejd1)]
 
 ---
 
 ## About Me
 
-I am a highly motivated Full-Stack Software Engineer with a strong focus on back-end development, API design, and DevOps practices. I have extensive experience in developing scalable and efficient solutions using a variety of technologies, including Python, Flask, Django, Node.js, React, and more. I am passionate about continuous learning, and I am always looking for opportunities to grow and make an impact through technology.
+I am a highly motivated Full-Stack Software Engineer with a strong focus on back-end development, API design, and DevOps practices. I have extensive experience in developing scalable and efficient solutions using a variety of technologies, including Golang, Python, Flask, Django, Gin, Node.js, React, and more. I am passionate about continuous learning, and I am always looking for opportunities to grow and make an impact through technology.
 
 ---
 
 ## 🔧 Skills
 
 - **Programming Languages**: Python, JavaScript, TypeScript, Golang
-- **Frameworks**: Flask, Django, Node.js, Express, NestJS, React, React Native
+- **Frameworks**: Flask, Django, Gin Node.js, Express, NestJS, React, React Native
 - **APIs**: REST, GraphQL
 - **Databases**: PostgreSQL, SQL, MySQL, DynamoDB
-- **DevOps**: Docker, Kubernetes, CI/CD Pipelines (GitHub Actions, Jenkins), AWS
-- **Tools**: Git, GitHub, Jira, Prometheus, Grafana, ELK Stack
+- **Container Management**: Docker, Kubernetes, CI/CD Pipelines (GitHub Actions, Jenkins)
+- **Cloud Management**: AWS
+- **Tools**: Git, GitHub, Jira, Prometheus, Grafana, ELK Stack, ArgoCD
 - **Soft Skills**: Communication, Problem-Solving, Team Collaboration, Time Management
 
 ---
 
 ## 🛠️ Projects
+### [Goresearch](https://goresearch-client-v1ro.onrender.com/)
+- **Role**: Tech Lead and Backend Developer
+- **Tech Stack**: Python, Djnago, PostgreSQL, Firebase, Websockects
+- **Description**:  A proprietary research platform (under NDA). Leading both backend architecture, client-side and  entire development using modern web technologies. Details available upon request with appropriate clearance.
 
 ### [Student Management System](https://student-management-system-x94s.onrender.com/admin)
 - **Role**: Full-Stack Developer
@@ -46,13 +52,12 @@ I am a highly motivated Full-Stack Software Engineer with a strong focus on back
 ---
 
 ## 💼 Experience
-
 **Back-end Engineer | GODAN Programme for Capacity Development (GODAN P4CD)**
-- **Duration**: April 2024 - Present
+- **Duration**: April - August 2024
 - **Responsibilities**: Managed and optimized databases, developed efficient APIs, and implemented CI/CD pipelines.
 
 **Back-end Engineer | Upwork**
-- **Duration**: November 2023 - Present
+- **Duration**: November 2023 - August 2024
 - **Responsibilities**: Developed back-end solutions using Python, Django, Flask, and Node.js, and created intuitive front-ends with ReactJS.
 
 **CRM Developer | Intently.co**
