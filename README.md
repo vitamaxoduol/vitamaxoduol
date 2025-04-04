@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vitamaxoduol/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/vitamaxoduol)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vitamaxoduo@gmail.com)
-[![Credily](https://www.credly.com/badges/c3b06388-a17b-405d-ada2-6889df2fd085/linked_in?t=siejd1)]
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/c3b06388-a17b-405d-ada2-6889df2fd085)
 
 ---
 
