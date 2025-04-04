@@ -75,7 +75,7 @@ Feel free to reach out for collaborations, job opportunities, or just to connect
 - **GitHub**: [github.com/vitamaxoduol](https://github.com/vitamaxoduol)
 
 ---
-## Languages and Tools
+
 ## 🛠 Tech Stack
 
 ### Programming Languages
